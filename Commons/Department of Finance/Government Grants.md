@@ -1,5 +1,5 @@
 # Grants
-**Grants** are currently generous towards establishing companies to ensure development of their own company can be achieved.
+The governing body are funding towards establishing companies to ensure development of their own company can be achieved.
 
 A grant should include
 * The current issues faced for proposal to receive funding.
