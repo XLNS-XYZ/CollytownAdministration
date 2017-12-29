@@ -32,14 +32,24 @@ It is crucial that every member is treated equal, regardless of their hierarchy 
 
 ---------
 ### Two Severity Strike system.
-You will be given strike points in regard to your offense, be aware that you can always be given multiple stikes at once if the severity is high. Do not argue towards this process, you are being told to reflect off your offence, and you can remove these strikes if moderators feel that you have reflected off it.
+You will be given strike points in regard to your offense, be aware that you can always be given multiple stikes at once if the severity is high. Do not argue towards this process, you are being told to reflect off your offence, and **you can remove these strikes if moderators feel that you have reflected off it.**
 
 In this order:
 
-Strike One
-Strike Two
-**Kick**
-Strike Three
-**Duration Ban**
-Strike Four
-**Blacklisted**
+1. Strike One
+2. Strike Two
+3. **Kick**
+4. Strike Three
+5. **Duration Ban**
+6. Strike Four
+7. **Blacklisted**
+
+Catagorised into Seven sections.
+
+These strikes will be recorded
+
+-------------
+
+High Court of CollyTown,
+XLNS_XYZ
+
