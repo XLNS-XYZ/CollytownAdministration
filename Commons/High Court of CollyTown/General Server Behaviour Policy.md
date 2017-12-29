@@ -26,6 +26,16 @@ In a end of a dispute, you must be satisfied that you have closed the dispute in
 
 If the moderation process has been abused, or if the dispute is created for silly reasons, the relevant (or both) parties will be dismissed.
 
+##### Administrative Powers
+Administrative powers should not abuse their power.
+It is unhelpful to:
+:respawn x
+:kick x
+:jail x
+:kill x
+
+or of other relevant commands which result in physical punishment, as they do not allow the member to reflect of what they have done wrong, please follow the strike system provided below.
+
 ---------
 ### Equality
 It is crucial that every member is treated equal, regardless of their hierarchy or authority.
