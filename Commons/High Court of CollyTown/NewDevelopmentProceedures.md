@@ -15,7 +15,7 @@ Luckily, all progress made on the previous CollyTown can be transfered to the ne
 
 ##### Proceedure
 
-A game will be opened containing the old CollyTown map without any PBS functionality. Containing F3X and an enabled HTTPService status, with this you should be able to:
+A [game](https://www.roblox.com/games/1306227298/Collytown-Inactive-Instance) will be opened containing the old CollyTown map without any PBS functionality. Containing F3X and an enabled HTTPService status, with this you should be able to:
 
 * Use the FeeTrex (F3X) tool to export the model into studio, you will need [this plugin](https://www.roblox.com/library/142485815/Import-from-Building-Tools-by-F3X) on studio to work. The model shouldn't be too large to import using the InsertService provided by ROBLOX.
 
